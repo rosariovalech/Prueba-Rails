@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+
+
+.image {
+position: relative;
+width: 100%;
+}
+
+h1 {
+position: absolute;
+top: 200px;
+width: 100%;
+color: white;
+}
