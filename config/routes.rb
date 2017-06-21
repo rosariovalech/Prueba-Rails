@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'pages/Superman'
+
 	root 'pages#batman'
 	get 'pages/batman'
 
